@@ -1,7 +1,8 @@
+```html
 <!DOCTYPE html>
 <html>
 <head>
-  <title>Librería XYZ - Página de Inicio</title>
+  <title>Librería de gustos - Página de Inicio</title>
   <style>
     /* Estilos CSS para personalizar la página */
     body {
@@ -83,10 +84,10 @@
 </head>
 <body>
   <header>
-    <h1>Librería XYZ</h1>
+    <h1>Librería de gustos</h1>
   </header>
 
-  <p>Bienvenido a la librería XYZ, tu destino para descubrir y explorar nuevos libros.</p>
+  <p>Bienvenido a la librería gustos, tu destino para descubrir y explorar nuevos libros.</p>
 
   <nav>
     <ul>
@@ -108,14 +109,14 @@
   <table>
     <thead>
       <tr>
-        <th>Título</th>
-        <th>Autor</th>
+        <th>Orgullo y prejuicio</th>
+        <th>Jane Austen</th>
       </tr>
     </thead>
     <tbody>
       <tr>
-        <td>Libro 1</td>
-        <td>Autor 1</td>
+        <td>Divina comedia</td>
+        <td>Dante Aligieri</td>
       </tr>
       <tr>
         <td>Libro 2</td>
@@ -139,3 +140,4 @@
   </form>
 </body>
 </html>
+```
