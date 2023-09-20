@@ -12,7 +12,7 @@ Para instalar y configurar el proyecto en un entorno local, sigue los siguientes
 
 - Para agregar o modificar el contenido de las secciones, puedes editar y agregar texto e imágenes en el código HTML debajo de cada sección correspondiente. Asegúrate de guardar los cambios y recargar la página en el navegador para ver las actualizaciones.
 
--- Para utilizar el formulario de contacto, deberás agregar un código de servidor en el lenguaje de tu elección. Este código debe recibir los datos del formulario (nombre, email, mensaje) y realizar la acción deseada, como enviar un correo electrónico o guardar la información en una base de datos.
+- Para utilizar el formulario de contacto, deberás agregar un código de servidor en el lenguaje de tu elección. Este código debe recibir los datos del formulario (nombre, email, mensaje) y realizar la acción deseada, como enviar un correo electrónico o guardar la información en una base de datos.
 
 - El proyecto no tiene requisitos ni dependencias adicionales. Solo necesitarás un navegador web para ver la página y un editor de textos para realizar las modificaciones necesarias.
 
