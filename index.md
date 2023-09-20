@@ -1,4 +1,4 @@
-```html
+
 <!DOCTYPE html>
 <html>
 <head>
@@ -119,8 +119,8 @@
         <td>Dante Aligieri</td>
       </tr>
       <tr>
-        <td>Libro 2</td>
-        <td>Autor 2</td>
+        <td>El extranjero</td>
+        <td>Albert Camus</td>
       </tr>
     </tbody>
   </table>
@@ -140,4 +140,3 @@
   </form>
 </body>
 </html>
-```
