@@ -98,13 +98,13 @@
   </nav>
 
   <h2 id="seccion1">Sección 1</h2>
-  <p>Contenido de la sección 1...</p>
+  <p>"Libro recomendado del mes": En esta sección, puedes destacar un libro diferente cada mes. Proporciona una breve reseña del libro, su género y el autor, junto con una imagen llamativa de la portada. También puedes incluir enlaces de compra en línea para aquellos que estén interesados en adquirirlo.</p>
 
   <h2 id="seccion2">Sección 2</h2>
-  <p>Contenido de la sección 2...</p>
+  <p>"Reseñas de libros populares": Crea una sección donde puedas incluir reseñas de libros populares y de éxito. Puedes escribir tus propias opiniones sobre los libros o invitar a otros escritores o lectores apasionados a contribuir con sus reseñas. Asegúrate de incluir una variedad de géneros y estilos literarios para atraer a diferentes tipos de lectores.</p>
 
   <h2 id="seccion3">Sección 3</h2>
-  <p>Contenido de la sección 3...</p>
+  <p>"Consejos de lectura": En esta sección, puedes ofrecer consejos prácticos y útiles para los amantes de la lectura. Puedes incluir temas como cómo elegir un libro adecuado, cómo organizar una biblioteca en casa, cómo crear un club de lectura, o incluso recomendaciones sobre cómo aprovechar al máximo la experiencia de lectura. También puedes incluir contenido adicional, como una lista de libros clásicos que todos deberían leer en su vida o una guía sobre cómo iniciarse en un género literario específico..</p>
 
   <table>
     <thead>
