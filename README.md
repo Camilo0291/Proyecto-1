@@ -6,7 +6,7 @@ Para instalar y configurar el proyecto en un entorno local, sigue los siguientes
 
 Descarga los archivos HTML, CSS y las imágenes en una carpeta en tu computadora.
 
-Abre el archivo HTML principal en un navegador web para ver la página. La página de inicio se mostrará con la información de la librería, secciones y formularios.
+Abre el archivo HTML principal en un navegador web para ver la página. La página de inicio se mostrará con la información de la librería, secciones y formulario.
 
 Para personalizar la página, puedes editar los estilos CSS en la sección `<style>` del archivo HTML. Aquí puedes cambiar los colores, fuentes y diseños para adaptarlo a tus necesidades.
 

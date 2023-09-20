@@ -112,9 +112,9 @@
 
 <h3>Género: Género politico y ciencia fisión </h3>
 
-<p>Autor: [George Orwell]</p>
+<p>Autor: George Orwell</p>
 
-<p>[es una novela de distopía cuya trama ocurre en Oceanía, un país dominado por un gobierno totalitario que mantiene en constante vigilancia a sus ciudadanos e, incluso, insiste en espiar sus pensamientos para mantener el orden.]</p>
+<p>es una novela de distopía cuya trama ocurre en Oceanía, un país dominado por un gobierno totalitario que mantiene en constante vigilancia a sus ciudadanos e, incluso, insiste en espiar sus pensamientos para mantener el orden.</p>
 
 <a href="https://www.buscalibre.com.co/libro-1984-george-orwell-debolsillo/9789588773834/p/29032411?bmkt_source=google&bmkt_campaign=878570393gclid=CjwKCAjwsKqoBhBPEiwALrrqiEV3SHiVn1qLrGctXn1-vIPQ41kG4xXtoXQ8BgVPmzHHw4GcGyRxkxoCv2UQAvD_BwE">Comprar en línea</a>
 <br>
