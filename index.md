@@ -96,10 +96,29 @@
       <li><a href="#seccion3">Sección 3</a></li>
     </ul>
   </nav>
-
+<br>
   <h2 id="seccion1">Sección 1</h2>
   <p>"Libro recomendado del mes": En esta sección, puedes destacar un libro diferente cada mes. Proporciona una breve reseña del libro, su género y el autor, junto con una imagen llamativa de la portada. También puedes incluir enlaces de compra en línea para aquellos que estén interesados en adquirirlo.</p>
 
+  <head>
+  <title>Libro recomendado del mes</title>
+</head>
+<body>
+
+<h1>Libro recomendado del mes</h1>
+
+<h2>Título del libro: 1984</h2>
+
+<img src="1984.jpg" alt="Portada del libro" width="200" height="300">
+
+<h3>Género: Género politico y ciencia fisión </h3>
+
+<p>Autor: [George Orwell]</p>
+
+<p>[es una novela de distopía cuya trama ocurre en Oceanía, un país dominado por un gobierno totalitario que mantiene en constante vigilancia a sus ciudadanos e, incluso, insiste en espiar sus pensamientos para mantener el orden.]</p>
+
+<a href="https://www.buscalibre.com.co/libro-1984-george-orwell-debolsillo/9789588773834/p/29032411?bmkt_source=google&bmkt_campaign=878570393gclid=CjwKCAjwsKqoBhBPEiwALrrqiEV3SHiVn1qLrGctXn1-vIPQ41kG4xXtoXQ8BgVPmzHHw4GcGyRxkxoCv2UQAvD_BwE">Comprar en línea</a>
+<br>
   <h2 id="seccion2">Sección 2</h2>
   <p>"Reseñas de libros populares": Es una sección donde puedas incluir reseñas de libros populares y de éxito. Puedes escribir tus propias opiniones sobre los libros o invitar a otros escritores o lectores apasionados a contribuir con sus reseñas. Asegúrate de incluir una variedad de géneros y estilos literarios para atraer a diferentes tipos de lectores.</p>
 
@@ -145,7 +164,7 @@
             <li>El visitante</li>
         </ul>
     </div>
-
+<br>
   <h2 id="seccion3">Sección 3</h2>
   <p>"Consejos de lectura": En esta sección, puedes ofrecer consejos prácticos y útiles para los amantes de la lectura. Puedes incluir temas como cómo elegir un libro adecuado, cómo organizar una biblioteca en casa, cómo crear un club de lectura, o incluso recomendaciones sobre cómo aprovechar al máximo la experiencia de lectura. También puedes incluir contenido adicional, como una lista de libros clásicos que todos deberían leer en su vida o una guía sobre cómo iniciarse en un género literario específico..</p>
 
@@ -167,7 +186,7 @@
     </thead>
     </tbody>
   </table>
-
+<br>
   <h2>Formulario de Contacto</h2>
   <form>
     <label for="nombre">Nombre:</label>
